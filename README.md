@@ -1,2 +1,2 @@
 # Ola, Mundo
- Primeiro reposittorio do curso 
+ Primeiro repositorio do curso 
